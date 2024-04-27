@@ -17,7 +17,7 @@ ng serve
 
 
 ## API do Projeto
-[GitHub](https://github.com/iuricontarelli/comercial-api-oportunidade)
+GitHub: [comercial-api-oportunidade](https://github.com/iuricontarelli/comercial-api-oportunidade)
 
 
 ## Imagem do projeto
